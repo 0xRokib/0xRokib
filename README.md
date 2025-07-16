@@ -45,7 +45,7 @@
             <a href="#top-languages">
               <img
                 alt="Top Languages"
-                src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xRokib&theme=radical&layout=compact&hide_border=true&custom_title=Language%20Mastery&bg_color=0d1b2a&title_color=7209b7&icon_color=00f5d4&text_color=e0fbfc&include_all_commits=true&count_private=true&card_width=445&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&locale=en&disable_animations=false"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib6theme=radical6layout=compact6hide_border=true6custom_title=Language%20Mastery6bg_color=0d1b2a6title_color=7209b76icon_color=00f5d46text_color=e0fbfc6include_all_commits=true6count_private=true6card_width=4456size_weight=0.56count_weight=0.56langs_count=10"
                 style="border-radius: 10px; border: 1px solid #00f5d4;"
               />
             </a>
