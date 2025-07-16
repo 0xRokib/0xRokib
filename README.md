@@ -10,8 +10,6 @@
       I'm <span style="color: #7209b7; font-weight: bold; font-size: 20px; background: rgba(114, 9, 183, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(114, 9, 183, 0.5);">Rokibul Hasan Rokib</span>
       <br />
       <span style="font-size: 16px; color: #00f5d4; font-style: italic;">Full Stack Engineer | Problem Solver | Code Enthusiast</span>
-      <br />
-      <span style="font-size: 14px; color: #e0fbfc; opacity: 0.8;">Crafting scalable solutions with modern technologies</span>
     </samp>
   </p>
 
