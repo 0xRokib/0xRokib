@@ -1,4 +1,4 @@
-<div style="font-family: 'Iosevka', monospace; background: #0d1b2a; padding: 25px; border: 3px solid #00f5d4; border-radius: 15px; max-width: 800px; margin: 0 auto; color: #e0fbfc; box-shadow: 0 0 15px rgba(0, 245, 212, 0.3);">
+<div style="font-family: 'Iosevka', monospace; background: #0d1b2a; padding: 25px; border: 3px solid #00f5d4; border-radius: 15px; max-width: 900px; margin: 0 auto; color: #e0fbfc; box-shadow: 0 0 15px rgba(0, 245, 212, 0.3);">
   <p align="left" style="font-size: 28px; color: #00f5d4; margin: 0;">
     <strong><samp>「</samp></strong>
   </p>
@@ -23,7 +23,7 @@
     <br />
     <p align="center" style="font-size: 16px; margin: 0;">
       <samp>
-        [ <a href="" style="color: #00f5d4; text-decoration: none; font-weight: bold;">about me</a> •
+        [ <a href="https://github.com/0xRokib" style="color: #00f5d4; text-decoration: none; font-weight: bold;">about me</a> •
         <a href="https://github.com/0xRokib?tab=repositories" style="color: #00f5d4; text-decoration: none; font-weight: bold;">projects</a> •
         <a href="https://www.linkedin.com/in/0xrokib/" style="color: #00f5d4; text-decoration: none; font-weight: bold;">contact</a> ]
       </samp>
@@ -45,7 +45,7 @@
             <a href="#top-languages">
               <img
                 alt="Top Languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=Language%20Mastery&bg_color=0d1b2a&title_color=7209b7&icon_color=00f5d4&text_color=e0fbfc&cache_seconds=86400"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=8&theme=radical&layout=compact&hide_border=true&custom_title=Language%20Mastery&bg_color=0d1b2a&title_color=7209b7&icon_color=00f5d4&text_color=e0fbfc&hide=html,css,scss,less,stylus&include_all_commits=true&count_private=true&exclude_repo=0xRokib&card_width=400"
                 style="border-radius: 10px; border: 1px solid #00f5d4;"
               />
             </a>
@@ -100,6 +100,18 @@
                 src="https://img.shields.io/badge/HackerRank-0xRokib-00f5d4?style=for-the-badge&logo=HackerRank&logoColor=7209b7"
                 alt="HackerRank Profile"
                 style="border-radius: 8px; border: 1px solid #7209b7;"
+              />
+            </a>
+          </td>
+        </tr>
+        <!-- GitHub Streak Stats Section -->
+        <tr>
+          <td colspan="2" style="padding: 15px;">
+            <a href="#streak-stats">
+              <img
+                alt="GitHub Streak Stats"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=0xRokib&theme=radical&hide_border=true&background=0d1b2a&ring=7209b7&fire=00f5d4&currStreakLabel=e0fbfc&sideLabels=e0fbfc&currStreakNum=00f5d4&sideNums=00f5d4&dates=e0fbfc"
+                style="border-radius: 10px; border: 1px solid #00f5d4; width: 100%; max-width: 600px;"
               />
             </a>
           </td>
