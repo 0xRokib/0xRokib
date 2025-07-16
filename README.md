@@ -5,10 +5,13 @@
 
   <p align="center" style="margin: 15px 0;">
     <samp>
-      <b style="font-size: 32px; color: #e0fbfc; letter-spacing: 1px; text-shadow: 0 0 5px #7209b7;">Welcome</b>
+      <b style="font-size: 32px; color: #e0fbfc; letter-spacing: 1px; text-shadow: 0 0 5px #7209b7;">Hello, World! 👋</b>
       <br />
-      I'm <span style="color: #7209b7; font-weight: bold; font-size: 20px; background: rgba(114, 9, 183, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(114, 9, 183, 0.5);">Rokibul Hasan Rokib</span>, a Full Stack Engineer.
+      I'm <span style="color: #7209b7; font-weight: bold; font-size: 20px; background: rgba(114, 9, 183, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(114, 9, 183, 0.5);">Rokibul Hasan Rokib</span>
       <br />
+      <span style="font-size: 16px; color: #00f5d4; font-style: italic;">Full Stack Engineer | Problem Solver | Code Enthusiast</span>
+      <br />
+      <span style="font-size: 14px; color: #e0fbfc; opacity: 0.8;">Crafting scalable solutions with modern technologies</span>
     </samp>
   </p>
 
@@ -45,7 +48,7 @@
             <a href="#top-languages">
               <img
                 alt="Top Languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib6theme=radical6layout=compact6hide_border=true6custom_title=Language%20Mastery6bg_color=0d1b2a6title_color=7209b76icon_color=00f5d46text_color=e0fbfc6include_all_commits=true6count_private=true6card_width=4456size_weight=0.56count_weight=0.56langs_count=10"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=Language%20Mastery&bg_color=0d1b2a&title_color=7209b7&icon_color=00f5d4&text_color=e0fbfc&cache_seconds=86400"
                 style="border-radius: 10px; border: 1px solid #00f5d4;"
               />
             </a>
