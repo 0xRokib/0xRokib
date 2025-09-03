@@ -9,7 +9,7 @@
       <br />
       I'm <span style="color: #7209b7; font-weight: bold; font-size: 20px; background: rgba(114, 9, 183, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(114, 9, 183, 0.5);">Rokibul Hasan Rokib</span>
       <br />
-      <span style="font-size: 16px; color: #00f5d4; font-style: italic;">Full Stack Engineer | Problem Solver | Code Enthusiast</span>
+      <span style="font-size: 16px; color: #00f5d4; font-style: italic;">Full Stack Dev | Problem Solver | Code Enthusiast</span>
     </samp>
   </p>
 
