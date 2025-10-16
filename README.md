@@ -37,19 +37,19 @@
             <a href="#github-stats">
               <img
                 alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&custom_title=Code%20Stats&bg_color=0d1b2a&title_color=7209b7&icon_color=00f5d4&text_color=e0fbfc&cache_seconds=86400"
+                src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&custom_title=GitHub%20Stats&bg_color=0d1b2a&title_color=7209b7&icon_color=00f5d4&text_color=e0fbfc"
                 style="border-radius: 10px; border: 1px solid #00f5d4;"
               />
             </a>
           </td>
           <td style="width: 50%; padding: 15px; vertical-align: top;">
-           <a href="#top-languages">
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=html&custom_title=Top%20Languages&bg_color=0d1b2a&title_color=7209b7&text_color=e0fbfc&icon_color=00f5d4"
-    style="border-radius: 10px; border: 1px solid #00f5d4;"
-  />
-</a>
+            <a href="#top-languages">
+              <img
+                alt="Top Languages"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=html&custom_title=Top%20Languages&bg_color=0d1b2a&title_color=7209b7&text_color=e0fbfc&icon_color=00f5d4"
+                style="border-radius: 10px; border: 1px solid #00f5d4;"
+              />
+            </a>
           </td>
         </tr>
         <tr>
@@ -105,7 +105,6 @@
             </a>
           </td>
         </tr>
-        <!-- Enhanced Connect with Me Section -->
         <tr>
           <td colspan="2" style="padding: 15px;">
             <p style="font-size: 20px; color: #7209b7; font-weight: bold; margin: 10px 0;">Connect with Me:</p>
