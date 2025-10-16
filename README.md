@@ -43,13 +43,13 @@
             </a>
           </td>
           <td style="width: 50%; padding: 15px; vertical-align: top;">
-            <a href="#top-languages">
-              <img
-                alt="Top Languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=Language%20Mastery&bg_color=0d1b2a&title_color=7209b7&icon_color=00f5d4&text_color=e0fbfc&cache_seconds=86400"
-                style="border-radius: 10px; border: 1px solid #00f5d4;"
-              />
-            </a>
+           <a href="#top-languages">
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=html&custom_title=Top%20Languages&bg_color=0d1b2a&title_color=7209b7&text_color=e0fbfc&icon_color=00f5d4"
+    style="border-radius: 10px; border: 1px solid #00f5d4;"
+  />
+</a>
           </td>
         </tr>
         <tr>
