@@ -1,139 +1,26 @@
-<div style="font-family: 'Iosevka', monospace; background: #0d1b2a; padding: 25px; border: 3px solid #00f5d4; border-radius: 15px; max-width: 900px; margin: 0 auto; color: #e0fbfc; box-shadow: 0 0 15px rgba(0, 245, 212, 0.3);">
-  <p align="left" style="font-size: 28px; color: #00f5d4; margin: 0;">
-    <strong><samp>「</samp></strong>
-  </p>
+# Rokibul Hasan Rokib
 
-  <p align="center" style="margin: 15px 0;">
-    <samp>
-      <b style="font-size: 32px; color: #e0fbfc; letter-spacing: 1px; text-shadow: 0 0 5px #7209b7;">Hello, World! 👋</b>
-      <br />
-      I'm <span style="color: #7209b7; font-weight: bold; font-size: 20px; background: rgba(114, 9, 183, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(114, 9, 183, 0.5);">Rokibul Hasan Rokib</span>
-      <br />
-      <span style="font-size: 16px; color: #00f5d4; font-style: italic;">Full Stack Software Engineer | Former EdTech Instructor | Linux Enthusiast</span>
-      <br />
-      Full Stack Web Developer @ Programming Hero • Dhaka, Bangladesh
-      <br />
-      Building scalable, maintainable web apps with React, Next.js, TypeScript, and Node.js.
-      <br />
-      Problem solver, mentor, and lifelong learner exploring AI, Backend &amp; Cloud, DevOps, and SRE.
-    </samp>
-  </p>
+**Full-stack software engineer · Dhaka, Bangladesh**
 
-  <p align="right" style="font-size: 28px; color: #00f5d4; margin: 0;">
-    <strong><samp>」</samp></strong>
-  </p>
+I build web products at **Programming Hero** with React, Next.js, TypeScript, and Node.js. Previously, I taught the MERN stack and mentored thousands of students as a web instructor.
 
-  <details align="left" style="margin-top: 25px; border: 2px solid #7209b7; border-radius: 10px; padding: 20px; background: #1b263b;">
-    <summary style="cursor: pointer; font-size: 20px; color: #7209b7; font-weight: bold;">
-      <samp><b>More Info ⌨️</b></samp>
-    </summary>
-    <br />
-    <p align="center" style="font-size: 16px; margin: 0;">
-      <samp>
-        [ <a href="https://roqib.netlify.app/" style="color: #00f5d4; text-decoration: none; font-weight: bold;">about me</a> •
-        <a href="https://roqib.netlify.app/projects/" style="color: #00f5d4; text-decoration: none; font-weight: bold;">projects</a> •
-        <a href="https://www.linkedin.com/in/0xrokib/" style="color: #00f5d4; text-decoration: none; font-weight: bold;">contact</a> ]
-      </samp>
-    </p>
-    <br />
-    <div style="max-width: 800px; margin: 0 auto;">
-      <table style="width: 100%; text-align: center;">
-        <tr>
-          <td style="width: 50%; padding: 15px; vertical-align: top;">
-            <a href="#github-stats">
-              <img
-                alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&custom_title=Code%20Stats&bg_color=0d1b2a&title_color=7209b7&icon_color=00f5d4&text_color=e0fbfc&cache_seconds=86400"
-                style="border-radius: 10px; border: 1px solid #00f5d4;"
-              />
-            </a>
-          </td>
-          <td style="width: 50%; padding: 15px; vertical-align: top;">
-           <a href="#top-languages">
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=html&custom_title=Top%20Languages&bg_color=0d1b2a&title_color=7209b7&text_color=e0fbfc&icon_color=00f5d4"
-    style="border-radius: 10px; border: 1px solid #00f5d4;"
-  />
-</a>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2" style="padding: 15px;">
-            <p style="font-size: 20px; color: #7209b7; font-weight: bold; margin: 10px 0;">Tech Stack:</p>
-            <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-              <img src="https://img.shields.io/badge/JavaScript-FFF200?style=for-the-badge&logo=javascript&logoColor=0d1b2a" alt="JavaScript" />
-              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=e0fbfc" alt="TypeScript" />
-              <img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=0d1b2a" alt="Node.js" />
-              <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=e0fbfc" alt="Express" />
-              <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=e0fbfc" alt="TanStack Query" />
-              <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=0d1b2a" alt="MongoDB" />
-              <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=e0fbfc" alt="PostgreSQL" />
-              <img src="https://img.shields.io/badge/REST_APIs-4479A1?style=for-the-badge&logoColor=00f5d4" alt="REST APIs" />
-              <img src="https://img.shields.io/badge/Redis-D92C2C?style=for-the-badge&logo=redis&logoColor=0d1b2a" alt="Redis" />
-              <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1b2a" alt="Linux" />
-              <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=e0fbfc" alt="Zod" />
-              <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=e0fbfc" alt="Next.js" />
-              <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0d1b2a" alt="React" />
-              <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00f5d4" alt="JWT Authentication" />
-              <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=0d1b2a" alt="Netlify" />
-              <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=e0fbfc" alt="Vercel" />
-              <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=e0fbfc" alt="Git" />
-              <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=e0fbfc" alt="GitHub" />
-              <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=e0fbfc" alt="TailwindCSS" />
-              <img src="https://img.shields.io/badge/Chart.js-F7A1A1?style=for-the-badge&logo=chart.js&logoColor=0d1b2a" alt="Chart.js" />
-              <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=00f5d4" alt="HTML" />
-              <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=e0fbfc" alt="CSS" />
-              <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=e0fbfc" alt="Postman" />
-              <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=00f5d4" alt="Docker" />
-              <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=0d1b2a" alt="Bash" />
-              <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=e0fbfc" alt="macOS" />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 50%; padding: 15px;">
-            <a href="https://leetcode.com/u/0xRokib/" style="text-decoration: none;">
-              <img
-                src="https://img.shields.io/badge/LeetCode-0xRokib-00f5d4?style=for-the-badge&logo=Leetcode&logoColor=7209b7"
-                alt="Leetcode Profile"
-                style="border-radius: 8px; border: 1px solid #7209b7;"
-              />
-            </a>
-          </td>
-          <td style="width: 50%; padding: 15px;">
-            <a href="https://www.hackerrank.com/0xrokib" style="text-decoration: none;">
-              <img
-                src="https://img.shields.io/badge/HackerRank-0xRokib-00f5d4?style=for-the-badge&logo=HackerRank&logoColor=7209b7"
-                alt="HackerRank Profile"
-                style="border-radius: 8px; border: 1px solid #7209b7;"
-              />
-            </a>
-          </td>
-        </tr>
-        <!-- Enhanced Connect with Me Section -->
-        <tr>
-          <td colspan="2" style="padding: 15px;">
-            <p style="font-size: 20px; color: #7209b7; font-weight: bold; margin: 10px 0;">Connect with Me:</p>
-            <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-              <a href="mailto:rokibulhasan.ph@gmail.com" style="text-decoration: none;">
-                <img
-                  src="https://img.shields.io/badge/Email-00f5d4?style=for-the-badge&logo=gmail&logoColor=7209b7"
-                  alt="Email"
-                  style="border-radius: 8px; border: 1px solid #7209b7;"
-                />
-              </a>
-              <a href="https://facebook.com/0xrokib" style="text-decoration: none;">
-                <img
-                  src="https://img.shields.io/badge/Facebook-00f5d4?style=for-the-badge&logo=facebook&logoColor=7209b7"
-                  alt="Facebook"
-                  style="border-radius: 8px; border: 1px solid #7209b7;"
-                />
-              </a>
-            </p>
-          </td>
-        </tr>
-      </table>
-    </div>
-  </details>
-</div>
+My interests extend beyond the browser: backend systems, Linux, cloud infrastructure, and AI-assisted development. I care about maintainable code and understanding how things work.
+
+[Portfolio](https://roqib.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/0xrokib/) · [Email](mailto:rokibulhasan.ph@gmail.com)
+
+## Stack
+
+**Frontend** — TypeScript, React, Next.js, Tailwind CSS, TanStack Query  
+**Backend** — Node.js, Express, PostgreSQL, MongoDB, Redis  
+**Tools** — Git, Docker, Linux
+
+## Selected work
+
+- **[QuickHire](https://quick-hire-frontend-alpha.vercel.app/)** — A job board with candidate and admin workflows, role-based access, and application tracking. Built with React, Express, and MongoDB. [Frontend](https://github.com/0xRokib/quick-hire-frontend) / [Backend](https://github.com/0xRokib/quick-hire-backend)
+- **[Focus Tracker](https://focus-tracker-beryl.vercel.app/)** — Focus sessions, streaks, and progress analytics. Built with Next.js, Express, PostgreSQL, and Redis. [Source](https://github.com/0xRokib/Time-Management-and-Focus-Tracker)
+
+## Beyond code
+
+I write technical notes in Bangla about software fundamentals, Linux, and DevOps, and still enjoy teaching and solving problems.
+
+[Writing](https://roqib.netlify.app/blog/) · [LeetCode](https://leetcode.com/u/0xRokib/) · [HackerRank](https://www.hackerrank.com/0xrokib)
