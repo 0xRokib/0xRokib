@@ -1,31 +1,27 @@
 # Rokibul Hasan Rokib
 
-<samp>Full-stack software engineer · Dhaka, Bangladesh</samp>
+**Full-stack software engineer** · Programming Hero · Dhaka, Bangladesh
 
-I build web products at **Programming Hero**. Previously, I taught the MERN stack and mentored thousands of students. I enjoy building maintainable applications and understanding the systems behind them.
+I build and improve web applications at Programming Hero, working across React and Next.js interfaces, Node.js APIs, and database-backed services. My focus is maintainable code, clear application structure, and a reliable user experience.
 
-<p>
-  <a href="https://roqib.netlify.app/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://roqib.netlify.app/blog/">Writing</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/0xrokib/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:rokibulhasan.ph@gmail.com">Email</a>
-</p>
+Before moving into product development, I worked as a Web Instructor and Senior Web Instructor, teaching the MERN stack and mentoring thousands of students. That experience continues to shape how I approach engineering: explain decisions clearly, make complex problems easier to reason about, and help others move forward.
 
-### Selected work
+[Portfolio](https://roqib.pro.bd/) · [Projects](https://roqib.pro.bd/projects/) · [Experience](https://roqib.pro.bd/work/) · [Writing](https://roqib.pro.bd/blog/)
 
-**[QuickHire](https://roqib.netlify.app/projects/quickhire/)**  
-A job board with candidate and admin workflows, role-based access, and application tracking.
+## Engineering focus
 
-<sub>React 19 · Express · MongoDB · JWT &nbsp; / &nbsp; <a href="https://quick-hire-frontend-alpha.vercel.app/">Live</a> · <a href="https://github.com/0xRokib/quick-hire-frontend">Frontend</a> · <a href="https://github.com/0xRokib/quick-hire-backend">Backend</a></sub>
+- **Web applications:** TypeScript, React, Next.js, Tailwind CSS, and TanStack Query.
+- **Backend systems:** Node.js, Express, REST APIs, authentication, PostgreSQL, MongoDB, and Redis.
+- **Development workflow:** Git, Docker, Linux, and AI-assisted implementation, debugging, and test scaffolding.
 
-**[Focus Tracker](https://roqib.netlify.app/projects/focus-tracker/)**  
-A productivity app for focus sessions, streak tracking, and progress analytics.
+I'm also exploring cloud infrastructure, DevOps, and SRE, and write about software fundamentals, Linux, and networking.
 
-<sub>Next.js · Express · PostgreSQL · Redis · Docker &nbsp; / &nbsp; <a href="https://focus-tracker-beryl.vercel.app/">Live</a> · <a href="https://github.com/0xRokib/Time-Management-and-Focus-Tracker">Source</a></sub>
+## Selected projects
 
-### Working with
+**[QuickHire](https://roqib.pro.bd/projects/quickhire/)** — A full-stack job board with candidate and admin workflows, JWT authentication, role-based access, and application tracking. Built with React, Express, and MongoDB.
 
-`TypeScript` `React` `Next.js` `Node.js` `Express`  
-`PostgreSQL` `MongoDB` `Redis` `Docker` `Linux`
+**[Focus Tracker](https://roqib.pro.bd/projects/focus-tracker/)** — A productivity application for focus sessions, streak tracking, gamification, and progress analytics. Built with Next.js, Express, PostgreSQL, and Redis, with Docker for development.
 
-Interested in backend systems, cloud infrastructure, and AI-assisted development. I also write technical notes in Bangla about software fundamentals, Linux, and DevOps.
+---
+
+[LinkedIn](https://www.linkedin.com/in/0xrokib/) · [rokibulhasan.ph@gmail.com](mailto:rokibulhasan.ph@gmail.com)
