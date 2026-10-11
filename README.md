@@ -1,79 +1,96 @@
 # Rokibul Hasan Rokib
 
 ```text
-rokib@github:~$ ./hello
+rokib@github:~$ fastfetch
 
-   ____   ___  _  _____ ____
-  |  _ \ / _ \| |/ /_ _| __ )
-  | |_) | | | | ' / | ||  _ \
-  |  _ <| |_| | . \ | || |_) |
-  |_| \_\\___/|_|\_\___|____/
+     +------------------+
+     |                  |
+     |   >_  0xR        |
+     |                  |
+     +------------------+
+            |    |
+          --+----+--
 
-  Full-stack software engineer
-  Programming Hero / Dhaka, Bangladesh
+  user     @0xRokib
+  name     Rokibul Hasan Rokib
+  role     Full-stack engineer
+  team     Programming Hero
+  home     Dhaka, Bangladesh
+  focus    Web apps / backend / Linux
 
-rokib@github:~$ whoami
-
-  name      Rokibul Hasan Rokib
-  handle    0xRokib
-  work      Web applications, from interface to database
-  focus     Clear structure. Explicit logic. Predictable behavior.
+  Web apps. APIs. Terminal tools.
 ```
 
-## `~/about`
+## `cat about.txt`
 
-I build and improve web applications at **Programming Hero**, working across React and Next.js interfaces, Node.js APIs, and database-backed services. My work includes frontend development, API integration, authentication, and data handling.
+I build and improve web applications at **Programming Hero**, working across React and Next.js interfaces, Node.js APIs, and database-backed services. I care about clear application structure, explicit business logic, and code another developer can follow.
 
-Before product development, I worked as a **Web Instructor and Senior Web Instructor**, teaching the MERN stack and mentoring thousands of students. That experience still shapes how I work: explain decisions clearly, break down complex problems, and write code other developers can understand and maintain.
+Before product development, I taught the MERN stack as a Web Instructor and Senior Web Instructor. Explaining bugs and technical decisions is still part of how I work. My public repositories mix teaching resources, small applications, and tools I use in developer workflows.
 
-## `~/stack`
+## `ls ~/projects`
+
+Selected from my pinned repositories:
+
+- **[clickup-cu](https://github.com/0xRokib/clickup-cu)** · Go
+  A native ClickUp CLI for daily tasks, status changes, estimates, and time tracking. Team workflow without leaving the terminal.
+- **[pi-bangla-news](https://github.com/0xRokib/pi-bangla-news)** · TypeScript
+  A Pi extension that retrieves public Bangladeshi news headlines through Scrapling's MCP server.
+- **[Learn-Linux](https://github.com/0xRokib/Learn-Linux)** · Learning resource
+  Shell and terminal notes covering filesystems, permissions, environment variables, pipes, and packages.
+- **[Learn-Git](https://github.com/0xRokib/Learn-Git)** · Learning resource
+  Notes and exercises on Git internals, branching, merging, rebasing, and remote workflows.
+
+## `cat engineering.conf`
+
+My day-to-day work spans frontend development, API integration, authentication, and data handling. Outside that work, I build CLI utilities and share practical learning material.
 
 ```text
-rokib@github:~$ tree stack
+[frontend]
+  languages = JavaScript, TypeScript
+  interface = React, Next.js
+  styling   = Tailwind CSS
+  data      = TanStack Query
 
-stack
-|-- frontend
-|   |-- TypeScript
-|   |-- React / Next.js
-|   |-- Tailwind CSS
-|   `-- TanStack Query
-|-- backend
-|   |-- Node.js / Express
-|   |-- PostgreSQL
-|   |-- MongoDB
-|   `-- Redis
-`-- tools
-    |-- Git
-    |-- Docker
-    `-- Linux
+[backend]
+  runtime   = Node.js
+  api       = Express
+  databases = PostgreSQL, MongoDB
+  cache     = Redis
+
+[toolbox]
+  daily     = Git, Docker, Linux
+  projects  = Go, Shell, Python
 ```
 
-## `~/now`
+## `tail ~/learning.log`
+
+- **Cloud infrastructure, DevOps, and SRE** — extending my backend and Linux interests into how applications run and stay reliable.
+- **Building AI applications with JavaScript** — [fde-gen-ai](https://github.com/0xRokib/fde-gen-ai) contains hands-on lessons with a ticket summarizer and support chatbot. Learning demos, not production services.
+- **Writing things down** — [notes on software fundamentals, Linux, and networking](https://roqib.pro.bd/blog/).
+
+## `git shortlog --summary`
+
+GitHub API snapshot · **2026-10-12**
 
 ```text
-rokib@github:~$ cat now.txt
+  contributions    907 / past year
+  public repos     224 / with forks
 
-  Building    Web applications at Programming Hero
-  Exploring   Cloud infrastructure, DevOps, and SRE
-  Writing     Software fundamentals, Linux, and networking
+  primary languages / non-fork repos
+  JavaScript       106 repositories
+  HTML              57 repositories
+  TypeScript        16 repositories
 ```
 
-Read my notes on the [blog](https://roqib.pro.bd/blog/).
+Contribution window: October 11, 2025–October 12, 2026. Language counts describe GitHub's primary-language labels per repository, not code volume or quality. Learning and teaching repositories are included.
 
-## `~/connect`
+[Live contribution calendar](https://github.com/0xRokib?tab=overview) · [Public repositories and language filters](https://github.com/0xRokib?tab=repositories)
 
-```text
-rokib@github:~$ ls links/
+## `cat ~/.contact`
 
-portfolio  experience  linkedin  email
-```
+[Portfolio](https://roqib.pro.bd/) · [Work history](https://roqib.pro.bd/work/) · [LinkedIn](https://www.linkedin.com/in/0xrokib/) · [GitHub](https://github.com/0xRokib)
 
-- **Portfolio** — [roqib.pro.bd](https://roqib.pro.bd/)
-- **Experience** — [Work history](https://roqib.pro.bd/work/)
-- **LinkedIn** — [in/0xrokib](https://www.linkedin.com/in/0xrokib/)
-- **Email** — [rokibulhasan.ph@gmail.com](mailto:rokibulhasan.ph@gmail.com)
-
-For engineering opportunities, reach me by email.
+For engineering opportunities: **[rokibulhasan.ph@gmail.com](mailto:rokibulhasan.ph@gmail.com)**
 
 ```text
 rokib@github:~$ _
