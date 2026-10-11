@@ -1,97 +1,47 @@
 # Rokibul Hasan Rokib
 
-```text
-rokib@github:~$ fastfetch
-
-     +------------------+
-     |                  |
-     |   >_  0xR        |
-     |                  |
-     +------------------+
-            |    |
-          --+----+--
-
-  user     @0xRokib
-  name     Rokibul Hasan Rokib
-  role     Full-stack engineer
-  team     Programming Hero
-  home     Dhaka, Bangladesh
-  focus    Web apps / backend / Linux
-
-  Web apps. APIs. Terminal tools.
-```
-
-## `cat about.txt`
-
-I build and improve web applications at **Programming Hero**, working across React and Next.js interfaces, Node.js APIs, and database-backed services. I care about clear application structure, explicit business logic, and code another developer can follow.
-
-Before product development, I taught the MERN stack as a Web Instructor and Senior Web Instructor. Explaining bugs and technical decisions is still part of how I work. My public repositories mix teaching resources, small applications, and tools I use in developer workflows.
-
-## `ls ~/projects`
-
-Selected from my pinned repositories:
-
-- **[clickup-cu](https://github.com/0xRokib/clickup-cu)** · Go
-  A native ClickUp CLI for daily tasks, status changes, estimates, and time tracking. Team workflow without leaving the terminal.
-- **[pi-bangla-news](https://github.com/0xRokib/pi-bangla-news)** · TypeScript
-  A Pi extension that retrieves public Bangladeshi news headlines through Scrapling's MCP server.
-- **[Learn-Linux](https://github.com/0xRokib/Learn-Linux)** · Learning resource
-  Shell and terminal notes covering filesystems, permissions, environment variables, pipes, and packages.
-- **[Learn-Git](https://github.com/0xRokib/Learn-Git)** · Learning resource
-  Notes and exercises on Git internals, branching, merging, rebasing, and remote workflows.
-
-## `cat engineering.conf`
-
-My day-to-day work spans frontend development, API integration, authentication, and data handling. Outside that work, I build CLI utilities and share practical learning material.
+**Full-stack engineer at Programming Hero** · Dhaka, Bangladesh
 
 ```text
-[frontend]
-  languages = JavaScript, TypeScript
-  interface = React, Next.js
-  styling   = Tailwind CSS
-  data      = TanStack Query
-
-[backend]
-  runtime   = Node.js
-  api       = Express
-  databases = PostgreSQL, MongoDB
-  cache     = Redis
-
-[toolbox]
-  daily     = Git, Docker, Linux
-  projects  = Go, Shell, Python
+>_ 0xRokib
+   Web applications / APIs / CLI tools
 ```
 
-## `tail ~/learning.log`
+I build web applications at Programming Hero with React, Next.js, TypeScript, and Node.js. I work on interfaces, authentication, API integration, and database-backed services.
 
-- **Cloud infrastructure, DevOps, and SRE** — extending my backend and Linux interests into how applications run and stay reliable.
-- **Building AI applications with JavaScript** — [fde-gen-ai](https://github.com/0xRokib/fde-gen-ai) contains hands-on lessons with a ticket summarizer and support chatbot. Learning demos, not production services.
-- **Writing things down** — [notes on software fundamentals, Linux, and networking](https://roqib.pro.bd/blog/).
+Before moving into product development, I taught the MERN stack as a Web Instructor and Senior Web Instructor. I still share learning notes alongside the CLI tools and extensions I build.
 
-## `git shortlog --summary`
+[Portfolio](https://roqib.pro.bd/) · [Work history](https://roqib.pro.bd/work/) · [LinkedIn](https://www.linkedin.com/in/0xrokib/) · [Email](mailto:rokibulhasan.ph@gmail.com)
 
-GitHub API snapshot · **2026-10-12**
+## Selected work
 
-```text
-  contributions    907 / past year
-  public repos     224 / with forks
+### [clickup-cu](https://github.com/0xRokib/clickup-cu)
 
-  primary languages / non-fork repos
-  JavaScript       106 repositories
-  HTML              57 repositories
-  TypeScript        16 repositories
-```
+A native Go CLI for ClickUp. Manage daily tasks, change statuses, track time, and set estimates from the terminal.
 
-Contribution window: October 11, 2025–October 12, 2026. Language counts describe GitHub's primary-language labels per repository, not code volume or quality. Learning and teaching repositories are included.
+### [pi-bangla-news](https://github.com/0xRokib/pi-bangla-news)
 
-[Live contribution calendar](https://github.com/0xRokib?tab=overview) · [Public repositories and language filters](https://github.com/0xRokib?tab=repositories)
+A TypeScript extension for Pi that retrieves public Bangladeshi news headlines through Scrapling's MCP server.
 
-## `cat ~/.contact`
+### [Learn-Linux](https://github.com/0xRokib/Learn-Linux) / [Learn-Git](https://github.com/0xRokib/Learn-Git)
 
-[Portfolio](https://roqib.pro.bd/) · [Work history](https://roqib.pro.bd/work/) · [LinkedIn](https://www.linkedin.com/in/0xrokib/) · [GitHub](https://github.com/0xRokib)
+Notes and exercises covering shell environments, filesystems, permissions, pipes, Git internals, and version-control workflows.
 
-For engineering opportunities: **[rokibulhasan.ph@gmail.com](mailto:rokibulhasan.ph@gmail.com)**
+## Working stack
 
-```text
-rokib@github:~$ _
-```
+- Frontend: TypeScript, JavaScript, React, Next.js, Tailwind CSS, TanStack Query
+- Backend: Node.js, Express, PostgreSQL, MongoDB, Redis
+- Tools: Git, Docker, Linux
+- Also used in public projects: Go, Shell, Python
+
+## Learning & writing
+
+I'm exploring cloud infrastructure, DevOps, and SRE. In [fde-gen-ai](https://github.com/0xRokib/fde-gen-ai), I document my JavaScript AI lessons with a ticket summarizer and support chatbot.
+
+I write about [software fundamentals, Linux, and networking](https://roqib.pro.bd/blog/).
+
+---
+
+[Browse repositories](https://github.com/0xRokib?tab=repositories) · [Contribution activity](https://github.com/0xRokib?tab=overview)
+
+For engineering opportunities: [rokibulhasan.ph@gmail.com](mailto:rokibulhasan.ph@gmail.com).
