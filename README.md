@@ -2,23 +2,40 @@
 
 **Full-stack software engineer** · Programming Hero · Dhaka, Bangladesh
 
-I build web applications at Programming Hero with React, Next.js, and Node.js. Previously, I taught the MERN stack as a Web Instructor and Senior Web Instructor, mentoring thousands of students.
+I build web applications at Programming Hero, working across React and Next.js interfaces, Node.js APIs, and database-backed services.
 
-I write about software fundamentals, Linux, and networking. I'm also exploring cloud infrastructure, DevOps, and SRE.
+Previously, I worked as a Web Instructor and Senior Web Instructor, teaching the MERN stack and mentoring thousands of students. My background combines product development with teaching developers how web applications work.
 
-[Portfolio](https://roqib.pro.bd/) · [Projects](https://roqib.pro.bd/projects/) · [Experience](https://roqib.pro.bd/work/) · [Writing](https://roqib.pro.bd/blog/)
+[Portfolio](https://roqib.pro.bd/) · [Work experience](https://roqib.pro.bd/work/) · [LinkedIn](https://www.linkedin.com/in/0xrokib/) · [Email](mailto:rokibulhasan.ph@gmail.com)
 
-## Stack
+## Selected projects
+
+**[QuickHire](https://roqib.pro.bd/projects/quickhire/)**
+
+A full-stack job board for candidates and administrators.
+
+- Job search with filtering and pagination; application review with status tracking.
+- Role-based access, access and refresh tokens, request validation, and rate limiting.
+- React frontend and a modular Express API backed by MongoDB.
+
+[Frontend source](https://github.com/0xRokib/quick-hire-frontend) · [Backend source](https://github.com/0xRokib/quick-hire-backend)
+
+**[Focus Tracker](https://roqib.pro.bd/projects/focus-tracker/)**
+
+A study productivity app for tracking focus sessions and study habits.
+
+- Pomodoro timer, daily and weekly focus metrics, streaks, and badges.
+- PostgreSQL for session records; Redis for caching metrics and rate limiting.
+- Next.js frontend and an Express API with Dockerized backend services.
+
+[Source](https://github.com/0xRokib/Time-Management-and-Focus-Tracker)
+
+## Technologies
 
 - Frontend: TypeScript, React, Next.js, Tailwind CSS, TanStack Query
 - Backend: Node.js, Express, PostgreSQL, MongoDB, Redis
 - Tools: Git, Docker, Linux
 
-## Selected projects
+I [write about software fundamentals, Linux, and networking](https://roqib.pro.bd/blog/) and am exploring cloud infrastructure, DevOps, and SRE.
 
-- [QuickHire](https://roqib.pro.bd/projects/quickhire/) · Job board with candidate and admin workflows, role-based access, and application tracking. React, Express, MongoDB.
-- [Focus Tracker](https://roqib.pro.bd/projects/focus-tracker/) · Focus sessions, streaks, and progress analytics. Next.js, Express, PostgreSQL, Redis.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/0xrokib/) · [rokibulhasan.ph@gmail.com](mailto:rokibulhasan.ph@gmail.com)
+For engineering opportunities, contact me at [rokibulhasan.ph@gmail.com](mailto:rokibulhasan.ph@gmail.com).
