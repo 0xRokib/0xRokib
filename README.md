@@ -14,9 +14,9 @@
            LAB   Go / CLI tools
 ```
 
-I build web applications at **Programming Hero**, working across React and Next.js interfaces, Node.js APIs, authentication, and database-backed services. Before product development, I taught the MERN stack as a Web Instructor and Senior Web Instructor.
+I build web applications at Programming Hero with React, Next.js, and Node.js. My work includes authentication, API integration, and database-backed services.
 
-I want another developer to be able to follow the business logic without guessing. Teaching made explaining those decisions part of how I work.
+Before moving into product development, I taught the MERN stack as a Web Instructor and Senior Web Instructor. I still care about explaining technical decisions and writing business logic another developer can follow.
 
 [Portfolio](https://roqib.pro.bd/) · [Work history](https://roqib.pro.bd/work/) · [LinkedIn](https://www.linkedin.com/in/0xrokib/)
 
@@ -24,9 +24,7 @@ I want another developer to be able to follow the business logic without guessin
 
 ### [clickup-cu](https://github.com/0xRokib/clickup-cu) · Go
 
-A native ClickUp CLI for tasks, status changes, estimates, and time tracking. It brings the team's daily workflow into the terminal, including readable plain output when color is disabled.
-
-Supports duration inputs such as `2h 30m` and configurable workspace statuses, with tests for parsing and output formatting.
+A native ClickUp CLI for managing tasks, changing statuses, and tracking time. Supports estimates such as `2h 30m`, configurable workspace statuses, and plain output when color is disabled. Includes tests for parsing and output formatting.
 
 ### [pi-bangla-news](https://github.com/0xRokib/pi-bangla-news) · TypeScript
 
@@ -36,13 +34,13 @@ Each site has its own timeout; requests support cancellation and keyword filteri
 
 ### [fde-gen-ai](https://github.com/0xRokib/fde-gen-ai) · JavaScript / Express
 
-Hands-on AI lessons built around a ticket summarizer and a support chatbot. Each chapter pairs runnable code with a walkthrough and exercises.
+JavaScript AI lessons with a ticket summarizer and a support chatbot. Each chapter includes runnable code, a walkthrough, and exercises.
 
 The chat demo orders requests to keep conversation history consistent and saves new turns only after a successful model call. These are learning projects, not production services.
 
 ### [Learn-Linux](https://github.com/0xRokib/Learn-Linux) / [Learn-Git](https://github.com/0xRokib/Learn-Git) · Notes & exercises
 
-Learning resources covering shell environments, filesystems, permissions, pipes, Git internals, branching, and rebasing. The teaching side of my public work.
+Notes and exercises on shell environments, filesystems, permissions, pipes, Git internals, branching, and rebasing.
 
 ## `02 / toolbox`
 
@@ -61,7 +59,7 @@ PROJECTS Go / Shell / Python
 
 ## `03 / field notes`
 
-I'm exploring cloud infrastructure, DevOps, and SRE alongside my backend and Linux work.
+I'm exploring cloud infrastructure, DevOps, and SRE.
 
 I write about [software fundamentals, Linux, and networking](https://roqib.pro.bd/blog/).
 
