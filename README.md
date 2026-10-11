@@ -10,28 +10,6 @@ Before moving into product development, I worked as a Web Instructor and Senior 
 
 [Portfolio](https://roqib.pro.bd/) · [Work experience](https://roqib.pro.bd/work/) · [LinkedIn](https://www.linkedin.com/in/0xrokib/) · [Email](mailto:rokibulhasan.ph@gmail.com)
 
-## Selected projects
-
-**[QuickHire](https://roqib.pro.bd/projects/quickhire/)**
-
-A full-stack job board for candidates and administrators.
-
-- Job search with filtering and pagination; application review with status tracking.
-- Role-based access, access and refresh tokens, request validation, and rate limiting.
-- React frontend and a modular Express API backed by MongoDB.
-
-[Frontend source](https://github.com/0xRokib/quick-hire-frontend) · [Backend source](https://github.com/0xRokib/quick-hire-backend)
-
-**[Focus Tracker](https://roqib.pro.bd/projects/focus-tracker/)**
-
-A study productivity app for tracking focus sessions and study habits.
-
-- Pomodoro timer, daily and weekly focus metrics, streaks, and badges.
-- PostgreSQL for session records; Redis for caching metrics and rate limiting.
-- Next.js frontend and an Express API with Dockerized backend services.
-
-[Source](https://github.com/0xRokib/Time-Management-and-Focus-Tracker)
-
 ## Technologies
 
 - Frontend: TypeScript, React, Next.js, Tailwind CSS, TanStack Query
