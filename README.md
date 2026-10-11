@@ -2,9 +2,11 @@
 
 **Full-stack software engineer** · Programming Hero · Dhaka, Bangladesh
 
-I build web applications at Programming Hero, working across React and Next.js interfaces, Node.js APIs, and database-backed services.
+I'm a full-stack software engineer at Programming Hero, based in Dhaka, Bangladesh. I build and improve web applications across React and Next.js interfaces, Node.js APIs, and database-backed services. My work spans frontend development, API integration, authentication, and data handling.
 
-Previously, I worked as a Web Instructor and Senior Web Instructor, teaching the MERN stack and mentoring thousands of students. My background combines product development with teaching developers how web applications work.
+I focus on code that other developers can understand and maintain: clear application structure, explicit business logic, and predictable behavior for users. I work with TypeScript, PostgreSQL, MongoDB, and Redis, alongside Git, Docker, and Linux.
+
+Before moving into product development, I worked as a Web Instructor and Senior Web Instructor, teaching the MERN stack and mentoring thousands of students. Teaching shaped how I work with other developers: explain technical decisions clearly, break down complex problems, and help people understand the code they work with.
 
 [Portfolio](https://roqib.pro.bd/) · [Work experience](https://roqib.pro.bd/work/) · [LinkedIn](https://www.linkedin.com/in/0xrokib/) · [Email](mailto:rokibulhasan.ph@gmail.com)
 
