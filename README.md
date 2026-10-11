@@ -1,21 +1,80 @@
 # Rokibul Hasan Rokib
 
-**Full-stack software engineer** · Programming Hero · Dhaka, Bangladesh
+```text
+rokib@github:~$ ./hello
 
-I'm a full-stack software engineer at Programming Hero, based in Dhaka, Bangladesh. I build and improve web applications across React and Next.js interfaces, Node.js APIs, and database-backed services. My work spans frontend development, API integration, authentication, and data handling.
+   ____   ___  _  _____ ____
+  |  _ \ / _ \| |/ /_ _| __ )
+  | |_) | | | | ' / | ||  _ \
+  |  _ <| |_| | . \ | || |_) |
+  |_| \_\\___/|_|\_\___|____/
 
-I focus on code that other developers can understand and maintain: clear application structure, explicit business logic, and predictable behavior for users. I work with TypeScript, PostgreSQL, MongoDB, and Redis, alongside Git, Docker, and Linux.
+  Full-stack software engineer
+  Programming Hero / Dhaka, Bangladesh
 
-Before moving into product development, I worked as a Web Instructor and Senior Web Instructor, teaching the MERN stack and mentoring thousands of students. Teaching shaped how I work with other developers: explain technical decisions clearly, break down complex problems, and help people understand the code they work with.
+rokib@github:~$ whoami
 
-[Portfolio](https://roqib.pro.bd/) · [Work experience](https://roqib.pro.bd/work/) · [LinkedIn](https://www.linkedin.com/in/0xrokib/) · [Email](mailto:rokibulhasan.ph@gmail.com)
+  name      Rokibul Hasan Rokib
+  handle    0xRokib
+  work      Web applications, from interface to database
+  focus     Clear structure. Explicit logic. Predictable behavior.
+```
 
-## Technologies
+## `~/about`
 
-- Frontend: TypeScript, React, Next.js, Tailwind CSS, TanStack Query
-- Backend: Node.js, Express, PostgreSQL, MongoDB, Redis
-- Tools: Git, Docker, Linux
+I build and improve web applications at **Programming Hero**, working across React and Next.js interfaces, Node.js APIs, and database-backed services. My work includes frontend development, API integration, authentication, and data handling.
 
-I [write about software fundamentals, Linux, and networking](https://roqib.pro.bd/blog/) and am exploring cloud infrastructure, DevOps, and SRE.
+Before product development, I worked as a **Web Instructor and Senior Web Instructor**, teaching the MERN stack and mentoring thousands of students. That experience still shapes how I work: explain decisions clearly, break down complex problems, and write code other developers can understand and maintain.
 
-For engineering opportunities, contact me at [rokibulhasan.ph@gmail.com](mailto:rokibulhasan.ph@gmail.com).
+## `~/stack`
+
+```text
+rokib@github:~$ tree stack
+
+stack
+|-- frontend
+|   |-- TypeScript
+|   |-- React / Next.js
+|   |-- Tailwind CSS
+|   `-- TanStack Query
+|-- backend
+|   |-- Node.js / Express
+|   |-- PostgreSQL
+|   |-- MongoDB
+|   `-- Redis
+`-- tools
+    |-- Git
+    |-- Docker
+    `-- Linux
+```
+
+## `~/now`
+
+```text
+rokib@github:~$ cat now.txt
+
+  Building    Web applications at Programming Hero
+  Exploring   Cloud infrastructure, DevOps, and SRE
+  Writing     Software fundamentals, Linux, and networking
+```
+
+Read my notes on the [blog](https://roqib.pro.bd/blog/).
+
+## `~/connect`
+
+```text
+rokib@github:~$ ls links/
+
+portfolio  experience  linkedin  email
+```
+
+- **Portfolio** — [roqib.pro.bd](https://roqib.pro.bd/)
+- **Experience** — [Work history](https://roqib.pro.bd/work/)
+- **LinkedIn** — [in/0xrokib](https://www.linkedin.com/in/0xrokib/)
+- **Email** — [rokibulhasan.ph@gmail.com](mailto:rokibulhasan.ph@gmail.com)
+
+For engineering opportunities, reach me by email.
+
+```text
+rokib@github:~$ _
+```
