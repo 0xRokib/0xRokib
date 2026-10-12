@@ -1,18 +1,12 @@
-```text
-######:::::#####::::##:::##:::#######:::######:
-##:::##:::##:::##:::##::##::::::###:::::##:::##
-##:::##:::##:::##:::##:##:::::::###:::::##:::##
-######::::##:::##:::####::::::::###:::::######:
-##:##:::::##:::##:::##:##:::::::###:::::##:::##
-##::##::::##:::##:::##::##::::::###:::::##:::##
-##:::##::::#####::::##:::##:::#######:::######:
-```
+## Rokibul Hasan Rokib
 
-### Rokibul Hasan Rokib
+**Full-stack Software Engineer · Programming Hero · Dhaka, Bangladesh**
 
-Full-stack engineer at **Programming Hero**, based in Dhaka. Previously taught the MERN stack. Building web products and terminal tools; sharing what I learn.
+I build web applications with **TypeScript, React, Next.js, and Node.js**, working across user interfaces, APIs, authentication, and databases. Previously a Senior Web Instructor, I bring a teaching background to engineering: clear communication, practical problem-solving, and helping developers understand the systems they build.
 
-TypeScript · React · Next.js · Node.js · PostgreSQL · MongoDB
+My projects span job platforms, productivity tools, and command-line workflows. I also publish technical notes on software, Linux, and networking.
+
+**Core stack:** TypeScript · React · Next.js · Node.js · Express · PostgreSQL · MongoDB · Redis
 
 ### `projects/`
 
